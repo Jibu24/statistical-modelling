@@ -1,0 +1,316 @@
+empty_slots,free_bikes,latitude,longitude,name,category,rating,popularity,total_bikes
+7.0,3.0,24.43,54.58,Saddle,Food Truck,8.5,0.9958541889415864,10.0
+7.0,3.0,24.43,54.58,Ushk Cafe,Café,6.3,0.7490230806717041,10.0
+7.0,3.0,24.44,54.58,Food Trucks,Food Truck,8.8,0.9950892680277218,10.0
+7.0,2.0,24.44,54.59,Ibsais Sweets,Dessert Shop,8.2,0.9051970504180926,9.0
+7.0,2.0,24.44,54.6,Bedashing Beauty Lounge,Nail Salon,7.9,0.9325406625974668,9.0
+7.0,2.0,24.44,54.6,"Bedashing Beauty Lounge, Khalifa A",Nail Salon,7.7,0.7731362241117736,9.0
+7.0,2.0,24.44,54.6,Espression Lavazza,Coffee Shop,8.0,0.956920580037399,9.0
+10.0,4.0,24.45,54.33,Eggcellent Cafe,Café,8.4,0.9748923594361516,14.0
+10.0,4.0,24.45,54.33,Napo Ristorante,Italian Restaurant,8.5,0.9888898122577304,14.0
+10.0,4.0,24.45,54.33,Abu Tafish,Seafood Restaurant,7.2,0.9758951400282758,14.0
+10.0,4.0,24.45,54.33,OZO Restaurant,Japanese Restaurant,7.3,0.9862202477084272,14.0
+10.0,4.0,24.45,54.33,No. Fifty Seven Boutique Cafe,Café,6.6,0.9620214741215766,14.0
+10.0,4.0,24.45,54.34,Brunch & Cake Marsa Al Bateen,Restaurant,7.9,0.9805974897475352,14.0
+10.0,4.0,24.45,54.34,Market At Edition,Theme Restaurant,8.2,0.9867104012587103,14.0
+10.0,4.0,24.45,54.34,Caffeino,Coffee Shop,7.9,0.9862056917071202,14.0
+0.0,5.0,24.45,54.6,Al Muneera Beach Plaza,Plaza,8.3,0.9561796563525384,5.0
+0.0,5.0,24.45,54.6,Meylas Emirati,Middle Eastern Restaurant,7.9,0.8390078679038916,5.0
+0.0,5.0,24.45,54.6,Berri's Cafe,Pizzeria,7.6,0.8715379458772889,5.0
+0.0,5.0,24.45,54.6,Leopold's of London Al Muneera,English Restaurant,7.2,0.3230780086793917,5.0
+0.0,5.0,24.45,54.6,Beach,Beach,6.6,0.878911900645662,5.0
+0.0,5.0,24.45,54.6,كوستا كوفي,Coffee Shop,6.6,0.918075009702572,5.0
+0.0,5.0,24.45,54.6,La Brioche,Café,6.7,0.8451822319443955,5.0
+0.0,5.0,24.45,54.6,Burger House,Burger Joint,6.0,0.4895388632113749,5.0
+0.0,5.0,24.45,54.6,Kababs n kurries,Indian Restaurant,5.9,0.1289560032459513,5.0
+10.0,0.0,24.45,54.61,Nando's,African Restaurant,7.9,0.962953815756977,10.0
+10.0,0.0,24.45,54.61,Jones The Grocer - Al Muneera,Café,6.7,0.9371978971880182,10.0
+10.0,0.0,24.45,54.61,Vasa Vasa,Café,8.8,0.8950005292312034,10.0
+3.0,5.0,24.46,54.32,Horizon at Khalidiya Palace Rayhaan by Rotana,Buffet,7.5,0.8119817944466006,8.0
+3.0,5.0,24.46,54.32,Cas' Castle,Speakeasy,7.4,0.1826200472779875,8.0
+3.0,5.0,24.46,54.32,Khalidiya Palace Private Beach,Beach,7.7,0.8938715026637971,8.0
+10.0,4.0,24.46,54.33,VOX Cinemas (ڤوكس سينما),Movie Theater,8.5,0.981194651236637,14.0
+10.0,4.0,24.46,54.33,Nation Galleria,Shopping Plaza,8.4,0.998588716790742,14.0
+5.0,3.0,24.46,54.33,Cafe Bateel,Café,8.3,0.9425960554634302,8.0
+5.0,3.0,24.46,54.33,Teuscher,Dessert Shop,7.6,0.8955297604346752,8.0
+7.0,7.0,24.46,54.33,Jarir Bookstore (مكتبة جرير),Bookstore,7.5,0.9419256959390324,14.0
+7.0,7.0,24.46,54.33,Mado,Turkish Restaurant,7.9,0.9572734008397136,14.0
+5.0,3.0,24.46,54.33,Lavazza Espression,Café,7.4,0.8825459549095015,8.0
+5.0,3.0,24.46,54.33,Cafe Diego,Café,7.3,0.1535123310870409,8.0
+6.0,5.0,24.46,54.33,The St. Regis Bar,Hotel Bar,8.4,0.9759729033623824,11.0
+10.0,0.0,24.46,54.61,Local (لوكل),Café,8.3,0.9921320961083866,10.0
+10.0,0.0,24.46,54.61,Andiamo! Bistro,Italian Restaurant,7.1,0.9428783121052816,10.0
+10.0,0.0,24.46,54.61,Al Zeina Beach,Beach,8.6,0.981900292841266,10.0
+10.0,0.0,24.46,54.62,Waitrose,Retail,7.6,0.9742087993508096,10.0
+7.0,3.0,24.47,54.32,Hookah Lounge,Hookah Bar,8.4,0.9127474155876232,10.0
+7.0,3.0,24.47,54.32,Bill's Farm,Turkish Restaurant,7.1,0.9531101153724024,10.0
+7.0,3.0,24.47,54.32,Corniche Boardwalk,Beach,8.7,0.9632360723988286,10.0
+7.0,3.0,24.47,54.32,Casper & Gambini's,Café,6.9,0.8763010267085347,10.0
+5.0,3.0,24.47,54.33,Nation Riviera Beach Club,Beach,8.6,0.8529090075150831,8.0
+7.0,7.0,24.47,54.33,Nation Riviera Beach Club,Beach,8.6,0.8529090075150831,14.0
+5.0,3.0,24.47,54.33,St.Regis Private beach,Beach,8.4,0.9530395512119396,8.0
+7.0,7.0,24.47,54.33,St.Regis Private beach,Beach,8.4,0.9530395512119396,14.0
+5.0,3.0,24.47,54.33,Catch,Seafood Restaurant,9.0,0.931623328511449,8.0
+7.0,7.0,24.47,54.33,Catch,Seafood Restaurant,9.0,0.931623328511449,14.0
+10.0,20.0,24.47,54.34,Seattle's Best Coffee - Abu Dhabi Corniche,"Cafes, Coffee, and Tea Houses",7.7,0.8573545496242458,30.0
+10.0,20.0,24.47,54.34,كولدستون كريمري,Ice Cream Parlor,7.7,0.9059026920227216,30.0
+10.0,20.0,24.47,54.34,Cafe Sante,Café,7.3,0.1591927460043044,30.0
+10.0,20.0,24.47,54.34,Nova Beach Cafe,Café,7.0,0.8928836044173164,30.0
+10.0,20.0,24.47,54.34,Adco Gym,Sporting Goods Retail,7.7,0.6241399992943584,30.0
+10.0,20.0,24.47,54.34,Shish Shawerma Corniche,Middle Eastern Restaurant,8.4,0.9748085947147443,30.0
+10.0,20.0,24.47,54.34,Chagh Kabab,Turkish Restaurant,7.3,0.8912606287266698,30.0
+10.0,20.0,24.47,54.34,Camacho Italian Restaurant & Sushi Bar,Italian Restaurant,7.5,0.8089122534664643,30.0
+7.0,2.0,24.47,54.35,مطعم ومقصف الريان,Breakfast Spot,8.1,0.8511449035035106,9.0
+3.0,5.0,24.47,54.35,مطعم ومقصف الريان,Breakfast Spot,8.1,0.8511449035035106,8.0
+7.0,2.0,24.47,54.35,Qasmieh Al Fawal,Middle Eastern Restaurant,8.7,0.9801714709099248,9.0
+3.0,5.0,24.47,54.35,Qasmieh Al Fawal,Middle Eastern Restaurant,8.7,0.9801714709099248,8.0
+7.0,2.0,24.47,54.35,ملك الشاي,Coffee Shop,8.1,0.9372684613484812,9.0
+3.0,5.0,24.47,54.35,ملك الشاي,Coffee Shop,8.1,0.9372684613484812,8.0
+7.0,2.0,24.47,54.35,Arabisque,Hookah Bar,7.3,0.2387185548459937,9.0
+3.0,5.0,24.47,54.35,Arabisque,Hookah Bar,7.3,0.2387185548459937,8.0
+7.0,2.0,24.47,54.35,Shawarma Al Rannah,Shawarma Restaurant,7.4,0.9286596337720072,9.0
+3.0,5.0,24.47,54.35,Shawarma Al Rannah,Shawarma Restaurant,7.4,0.9286596337720072,8.0
+7.0,2.0,24.47,54.35,Sushi Central,Japanese Restaurant,7.2,0.877183078714321,9.0
+3.0,5.0,24.47,54.35,Sushi Central,Japanese Restaurant,7.2,0.877183078714321,8.0
+7.0,2.0,24.47,54.35,Al Afiya Bath & Saloon,Spa,8.6,0.9924849169107012,9.0
+3.0,5.0,24.47,54.35,Al Afiya Bath & Saloon,Spa,8.6,0.9924849169107012,8.0
+7.0,2.0,24.47,54.35,Miss J Cafe,Café,7.2,0.8674452245704407,9.0
+3.0,5.0,24.47,54.35,Miss J Cafe,Café,7.2,0.8674452245704407,8.0
+7.0,2.0,24.47,54.35,Tchibo,Café,7.3,0.8507920827011961,9.0
+3.0,5.0,24.47,54.35,Tchibo,Café,7.3,0.8507920827011961,8.0
+7.0,2.0,24.47,54.35,ستاربكس,Coffee Shop,7.5,0.9940020463606536,9.0
+3.0,5.0,24.47,54.35,ستاربكس,Coffee Shop,7.5,0.9940020463606536,8.0
+7.0,2.0,24.47,54.35,Cantina Laredo,Mexican Restaurant,7.3,0.0986486963271354,9.0
+3.0,5.0,24.47,54.35,Cantina Laredo,Mexican Restaurant,7.3,0.0986486963271354,8.0
+7.0,2.0,24.47,54.35,Al Afiya Turkish Restaurant,Turkish Restaurant,7.6,0.950181702713192,9.0
+3.0,5.0,24.47,54.35,Al Afiya Turkish Restaurant,Turkish Restaurant,7.6,0.950181702713192,8.0
+7.0,2.0,24.47,54.35,Krispy Kreme,Donut Shop,7.0,0.8752072822213598,9.0
+3.0,5.0,24.47,54.35,Krispy Kreme,Donut Shop,7.0,0.8752072822213598,8.0
+7.0,2.0,24.47,54.35,La Brioche,Café,7.0,0.2706488374554563,9.0
+3.0,5.0,24.47,54.35,La Brioche,Café,7.0,0.2706488374554563,8.0
+8.0,9.0,24.47,54.6,Stills Restaurant & Bar,Cocktail Bar,7.8,0.9783368027378896,17.0
+7.0,3.0,24.47,54.6,Stills Restaurant & Bar,Cocktail Bar,7.8,0.9783368027378896,10.0
+8.0,9.0,24.47,54.6,Sundowners Pool,Beach,7.4,0.8733373319690929,17.0
+7.0,3.0,24.47,54.6,Sundowners Pool,Beach,7.4,0.8733373319690929,10.0
+8.0,9.0,24.47,54.6,Barouk,Middle Eastern Restaurant,6.9,0.9116889531806796,17.0
+7.0,3.0,24.47,54.6,Barouk,Middle Eastern Restaurant,6.9,0.9116889531806796,10.0
+8.0,9.0,24.47,54.6,Belgian Cafe,Bar,8.7,0.9812652153970998,17.0
+7.0,3.0,24.47,54.6,Belgian Cafe,Bar,8.7,0.9812652153970998,10.0
+8.0,9.0,24.47,54.6,Nowhere Cafe,Café,7.7,0.9922440265505118,17.0
+7.0,3.0,24.47,54.6,Nowhere Cafe,Café,7.7,0.9922440265505118,10.0
+8.0,9.0,24.47,54.6,Blue Grill,American Restaurant,7.8,0.9682461277916946,17.0
+7.0,3.0,24.47,54.6,Blue Grill,American Restaurant,7.8,0.9682461277916946,10.0
+8.0,9.0,24.47,54.6,Rangoli,Indian Restaurant,7.8,0.9195215749920616,17.0
+7.0,3.0,24.47,54.6,Rangoli,Indian Restaurant,7.8,0.9195215749920616,10.0
+8.0,9.0,24.47,54.6,Y Bar,Lounge,7.5,0.932717072998624,17.0
+7.0,3.0,24.47,54.6,Y Bar,Lounge,7.5,0.932717072998624,10.0
+8.0,9.0,24.47,54.6,C. Taste Centro Yas Island,Buffet,7.6,0.3147514377447694,17.0
+7.0,3.0,24.47,54.6,C. Taste Centro Yas Island,Buffet,7.6,0.3147514377447694,10.0
+8.0,9.0,24.47,54.6,Choices,Restaurant,7.7,0.8796528243305225,17.0
+7.0,3.0,24.47,54.6,Choices,Restaurant,7.7,0.8796528243305225,10.0
+8.0,9.0,24.47,54.6,Yas Water World Abu Dhabi,Swimming Pool,7.8,0.8711851250749745,17.0
+7.0,3.0,24.47,54.6,Yas Water World Abu Dhabi,Swimming Pool,7.8,0.8711851250749745,10.0
+8.0,9.0,24.47,54.6,Yas Plaza,Plaza,7.5,0.8530501358360089,17.0
+7.0,3.0,24.47,54.6,Yas Plaza,Plaza,7.5,0.8530501358360089,10.0
+10.0,2.0,24.47,54.61,Vogue Fitness - Crossfit Yas,Sports and Recreation,8.2,0.9906502487386656,12.0
+10.0,2.0,24.47,54.61,Stars N Bars,Bar,7.8,0.985040397981865,12.0
+10.0,2.0,24.47,54.61,Cipriani Yas Island,Italian Restaurant,8.9,0.9770666478495572,12.0
+10.0,2.0,24.47,54.61,Diablito,Italian Restaurant,7.1,0.8962706841195357,12.0
+10.0,2.0,24.47,54.61,Iris Yas Island,Lounge,8.7,0.9586846840489716,12.0
+10.0,2.0,24.47,54.61,Aquarium Restaurant,Seafood Restaurant,6.7,0.9276011713650636,12.0
+10.0,2.0,24.47,54.61,Rozanah Restaurant,Lebanese Restaurant,6.1,0.1256747697844265,12.0
+10.0,2.0,24.47,54.61,F1 Paddock,Race Track,7.9,0.9239671171012244,12.0
+10.0,2.0,24.47,54.61,جزيرة ياس,Amusement Park,7.3,0.934516459090428,12.0
+10.0,2.0,24.47,54.61,Ferrari Box,Race Track,7.5,0.2267932117277634,12.0
+10.0,2.0,24.47,54.61,Latitude and Longitude Lounge,Lounge,7.3,0.7520375401333662,12.0
+10.0,2.0,24.47,54.61,Yas Lounge - A Sweet Taste of Luxury,Café,7.3,0.9933669689164872,12.0
+10.0,2.0,24.47,54.61,Ferrari Formula 1 Club,Sports and Recreation,8.3,0.8866386762163497,12.0
+10.0,2.0,24.47,54.61,Angar,Indian Restaurant,7.1,0.8638817344670642,12.0
+10.0,2.0,24.47,54.61,Yas Viceroy - Marina Building Pool,Swimming Pool,8.1,0.8930952968987051,12.0
+10.0,2.0,24.47,54.61,Espa,Spa,8.0,0.8056310200049395,12.0
+10.0,2.0,24.47,54.61,Formula One Paddock Club,Stadium,9.1,0.9900231096314472,12.0
+7.0,3.0,24.48,54.32,2Xl,Furniture and Home Store,8.1,0.953251243693328,10.0
+7.0,3.0,24.48,54.32,Arabica,Coffee Shop,7.9,0.9801361888296934,10.0
+1.0,4.0,24.48,54.32,Starbucks (ستاربكس),Coffee Shop,7.7,0.9929083018734784,5.0
+1.0,4.0,24.48,54.32,Pappa Roti,Coffee Shop,7.6,0.8908372437638923,5.0
+5.0,5.0,24.48,54.35,Sushi Story,Japanese Restaurant,8.7,0.961471968387256,10.0
+5.0,0.0,24.48,54.6,Yas Links Golf Course,Golf Course,9.1,0.9846786210009784,5.0
+5.0,0.0,24.48,54.6,Hickory's Sports Bar,Night Club,7.5,0.9526900419197613,5.0
+7.0,3.0,24.48,54.61,"Yas Marina, Abu Dabi",Race Track,8.5,0.9908190305648316,10.0
+10.0,0.0,24.48,54.61,After Race Concert,Music Venue,8.2,0.9840057865891052,10.0
+3.0,2.0,24.48,54.61,Ferrari World Abu Dhabi,Amusement Park,8.8,0.9987436770085432,5.0
+3.0,2.0,24.48,54.61,Roller Coaster,Amusement Park,8.0,0.955574018195428,5.0
+5.0,5.0,24.49,54.35,Corniche (الكورنيش),Beach,9.2,0.9951310729280598,10.0
+5.0,5.0,24.49,54.35,Rain Café,Café,7.8,0.9879688106410754,10.0
+5.0,5.0,24.49,54.35,Arabica,Coffee Shop,8.4,0.968034435310306,10.0
+5.0,5.0,24.49,54.35,مطعم جار القمر,Comfort Food Restaurant,7.3,0.478425007938468,10.0
+5.0,5.0,24.49,54.35,Jar Al Qamar,Mediterranean Restaurant,6.9,0.8682214303355326,10.0
+5.0,5.0,24.49,54.35,مروش,Middle Eastern Restaurant,6.2,0.8792294393677451,10.0
+3.0,4.0,24.49,54.36,Cerutti,Café,8.3,0.9514871396817556,7.0
+3.0,4.0,24.49,54.36,Glamour Ladies Salon,Health and Beauty Service,7.3,0.8808524150583918,7.0
+3.0,4.0,24.49,54.36,First Abu Dhabi Bank,Bank,7.7,0.9300356349010338,7.0
+3.0,4.0,24.49,54.36,Vertigo Café Lounge,Café,8.0,0.8456056169071728,7.0
+3.0,4.0,24.49,54.36,Al Rousha Restaurant (مطعم الروشة),Middle Eastern Restaurant,7.4,0.9194510108315986,7.0
+3.0,4.0,24.49,54.36,Golden Fork,Chinese Restaurant,6.7,0.5080972374131179,7.0
+3.0,4.0,24.49,54.36,Petek Restaurants & Sweets,"Cafes, Coffee, and Tea Houses",8.5,0.907102282750591,7.0
+3.0,4.0,24.49,54.36,نوفو سينما,Movie Theater,7.6,0.9308471227463572,7.0
+3.0,4.0,24.49,54.36,Tamba Restaurant,Indian Restaurant,8.2,0.9102071058109586,7.0
+3.0,4.0,24.49,54.36,Nando's,African Restaurant,7.1,0.9521927812863846,7.0
+3.0,4.0,24.49,54.36,Dashing Nails,Health and Beauty Service,7.9,0.8791941572875137,7.0
+3.0,4.0,24.49,54.36,Back Yard Bistro,Sports Bar,6.9,0.9561090921920756,7.0
+3.0,4.0,24.49,54.36,The Nail Spa,Health and Beauty Service,7.5,0.9848992696609392,7.0
+3.0,4.0,24.49,54.36,Jazz,Italian Restaurant,7.8,0.9342342024485764,7.0
+3.0,4.0,24.49,54.36,Nata Lisboa,Coffee Shop,6.6,0.9585435557280456,7.0
+3.0,4.0,24.49,54.36,السوق المركزي,Antique Store,7.2,0.978689623540204,7.0
+7.0,7.0,24.49,54.37,ADCB Head Office,Bank,8.4,0.994672405885051,14.0
+7.0,7.0,24.49,54.37,دجاج كنتاكى,Fast Food Restaurant,6.4,0.8864975478954239,14.0
+7.0,7.0,24.49,54.37,Baskin Robbins (باسكن روبنز),Ice Cream Parlor,7.9,0.8099707158734079,14.0
+7.0,7.0,24.49,54.37,Cafe 302,Café,8.7,0.977913417775112,14.0
+7.0,7.0,24.49,54.37,Sofitel Club Millésime lounge,Hotel Bar,6.9,0.2119394559503228,14.0
+7.0,7.0,24.49,54.37,بيتزا هت,Pizzeria,6.2,0.908125463077303,14.0
+7.0,7.0,24.49,54.37,Al Farah Pastries and Grills,Breakfast Spot,7.8,0.9430900045866704,14.0
+7.0,7.0,24.49,54.37,ماكدونالدز,Burger Joint,7.2,0.9679285890696115,14.0
+7.0,7.0,24.49,54.37,Southern Fried Chicken - SFC,Fast Food Restaurant,6.6,0.1362593938538616,14.0
+7.0,7.0,24.49,54.37,فول وفتات الفرح,Mediterranean Restaurant,6.9,0.1087040891930988,14.0
+8.0,4.0,24.49,54.39,First Clique Marina Square,Café,8.1,0.964047560244152,12.0
+8.0,4.0,24.49,54.39,Geant Supermarket,Grocery Store / Supermarket,5.7,0.1492431993790353,12.0
+8.0,4.0,24.49,54.39,Geant Express,Convenience Store,5.7,0.8353738136400523,12.0
+5.0,3.0,24.49,54.6,Yas Waterworld,Amusement Park,9.1,0.9960571203070866,8.0
+5.0,3.0,24.49,54.6,Warner Bros. Plaza,Plaza,9.0,0.988179308863396,8.0
+5.0,3.0,24.49,54.6,Bronto Burgers and Ribs,Burger Joint,7.6,0.5830893553637296,8.0
+5.0,3.0,24.49,54.6,Cartoon Junction Carosel,Amusement Park,8.2,0.4530598648441781,8.0
+5.0,3.0,24.49,54.6,Fast And Furry-Ous,Amusement Park,6.7,0.9702703417910502,8.0
+5.0,3.0,24.49,54.6,Wave Pool,Water Park,6.9,0.9220743860998836,8.0
+5.0,3.0,24.49,54.6,Gotham City,Amusement Park,8.3,0.948172078367684,8.0
+3.0,2.0,24.49,54.61,G Force,Amusement Park,8.6,0.985532796391476,5.0
+3.0,2.0,24.49,54.61,"RED Live Theater | Ferrari World, Abu Dhabi",Theater,8.0,0.93685031092441,5.0
+3.0,2.0,24.49,54.61,Galleria Ferrari,Amusement Park,8.4,0.9951599164022656,5.0
+3.0,2.0,24.49,54.61,Yas Marina Circuit Main Grandstand,Race Track,8.2,0.9357334880207916,5.0
+3.0,2.0,24.49,54.61,Driving with The Champion,Amusement Park,8.0,0.9312486561202246,5.0
+3.0,2.0,24.49,54.61,Ferrari Store (متجر فيراري),Clothing Store,7.8,0.9761226156135526,5.0
+3.0,2.0,24.49,54.61,Godiva,Chocolate Store,8.1,0.9465375125054476,5.0
+3.0,2.0,24.49,54.61,Scuderia Challenge,Amusement Park,7.5,0.972970419129704,5.0
+6.0,7.0,24.5,54.36,Abu Dhabi Corniche Opposite 4th St,Scenic Lookout,7.1,0.9663408954591964,13.0
+6.0,7.0,24.5,54.36,Formal Park Corniche,Garden,7.2,0.96302437991744,13.0
+6.0,3.0,24.5,54.37,MUGG & BEAN Capital Plaza,Café,8.2,0.9003634054263839,9.0
+11.0,3.0,24.5,54.37,MUGG & BEAN Capital Plaza,Café,8.2,0.9003634054263839,14.0
+6.0,3.0,24.5,54.37,Le Café Lobby Lounge at Sofitel Abu Dhabi,Lounge,7.1,0.2003316515541756,9.0
+11.0,3.0,24.5,54.37,Le Café Lobby Lounge at Sofitel Abu Dhabi,Lounge,7.1,0.2003316515541756,14.0
+6.0,3.0,24.5,54.37,Altekia,Restaurant,8.1,0.6989380093850334,9.0
+11.0,3.0,24.5,54.37,Altekia,Restaurant,8.1,0.6989380093850334,14.0
+6.0,3.0,24.5,54.37,Transilvania Restaurant & Café,Café,7.5,0.947606110856296,9.0
+11.0,3.0,24.5,54.37,Transilvania Restaurant & Café,Café,7.5,0.947606110856296,14.0
+6.0,3.0,24.5,54.37,Marmar - Tradicional Arabian food,Moroccan Restaurant,6.7,0.5057333380376107,9.0
+11.0,3.0,24.5,54.37,Marmar - Tradicional Arabian food,Moroccan Restaurant,6.7,0.5057333380376107,14.0
+6.0,3.0,24.5,54.37,El Sombrero,Mexican Restaurant,6.8,0.9176516247397948,9.0
+11.0,3.0,24.5,54.37,El Sombrero,Mexican Restaurant,6.8,0.9176516247397948,14.0
+6.0,3.0,24.5,54.37,Cafe de Foyer,Café,6.3,0.8983876089334227,9.0
+11.0,3.0,24.5,54.37,Cafe de Foyer,Café,6.3,0.8983876089334227,14.0
+6.0,3.0,24.5,54.37,Corniche Park,Park,8.1,0.8685389690576156,9.0
+11.0,3.0,24.5,54.37,Corniche Park,Park,8.1,0.8685389690576156,14.0
+6.0,3.0,24.5,54.37,Al Mayass,Middle Eastern Restaurant,8.0,0.842641922167731,9.0
+11.0,3.0,24.5,54.37,Al Mayass,Middle Eastern Restaurant,8.0,0.842641922167731,14.0
+6.0,3.0,24.5,54.37,كوستا كوفي,Coffee Shop,8.4,0.9068200261087394,9.0
+11.0,3.0,24.5,54.37,كوستا كوفي,Coffee Shop,8.4,0.9068200261087394,14.0
+6.0,3.0,24.5,54.37,Fresh Way,Sushi Restaurant,7.5,0.8022086582224888,9.0
+11.0,3.0,24.5,54.37,Fresh Way,Sushi Restaurant,7.5,0.8022086582224888,14.0
+6.0,3.0,24.5,54.37,كافي ومطعم بلانيت,Hookah Bar,7.9,0.8410189464770843,9.0
+11.0,3.0,24.5,54.37,كافي ومطعم بلانيت,Hookah Bar,7.9,0.8410189464770843,14.0
+6.0,3.0,24.5,54.37,Sun & Sand Sports,Sporting Goods Retail,7.7,0.9762904420844652,9.0
+11.0,3.0,24.5,54.37,Sun & Sand Sports,Sporting Goods Retail,7.7,0.9762904420844652,14.0
+6.0,3.0,24.5,54.37,Bel Mondo,French Restaurant,6.2,0.679568147337967,9.0
+11.0,3.0,24.5,54.37,Bel Mondo,French Restaurant,6.2,0.679568147337967,14.0
+6.0,3.0,24.5,54.37,ستاربكس,Coffee Shop,7.4,0.8036552235119783,9.0
+11.0,3.0,24.5,54.37,ستاربكس,Coffee Shop,7.4,0.8036552235119783,14.0
+6.0,3.0,24.5,54.37,Golden Crown,Indian Restaurant,7.2,0.9337755354055676,9.0
+11.0,3.0,24.5,54.37,Golden Crown,Indian Restaurant,7.2,0.9337755354055676,14.0
+6.0,3.0,24.5,54.37,Chowking Restaurant,Chinese Restaurant,6.9,0.9727622340613202,9.0
+11.0,3.0,24.5,54.37,Chowking Restaurant,Chinese Restaurant,6.9,0.9727622340613202,14.0
+6.0,5.0,24.5,54.39,Espoir Flowers,Flower Store,8.4,0.9752672617577532,11.0
+10.0,0.0,24.5,54.39,Espoir Flowers,Flower Store,8.4,0.9752672617577532,10.0
+6.0,5.0,24.5,54.39,Hidden Bar,Cocktail Bar,8.3,0.945877288924955,11.0
+10.0,0.0,24.5,54.39,Hidden Bar,Cocktail Bar,8.3,0.945877288924955,10.0
+6.0,5.0,24.5,54.39,Glo,Lounge,8.4,0.9127121335073916,11.0
+10.0,0.0,24.5,54.39,Glo,Lounge,8.4,0.9127121335073916,10.0
+6.0,5.0,24.5,54.39,Aqua,Mediterranean Restaurant,8.0,0.977278340330946,11.0
+10.0,0.0,24.5,54.39,Aqua,Mediterranean Restaurant,8.0,0.977278340330946,10.0
+6.0,5.0,24.5,54.39,Majlis Lobby Lounge,Café,7.5,0.8185089792894189,11.0
+10.0,0.0,24.5,54.39,Majlis Lobby Lounge,Café,7.5,0.8185089792894189,10.0
+6.0,5.0,24.5,54.39,Aqua at Rosewood,Lebanese Restaurant,7.7,0.8675157887309036,11.0
+10.0,0.0,24.5,54.39,Aqua at Rosewood,Lebanese Restaurant,7.7,0.8675157887309036,10.0
+6.0,5.0,24.5,54.39,Sense Spa,Spa,7.3,0.7023603711674841,11.0
+10.0,0.0,24.5,54.39,Sense Spa,Spa,7.3,0.7023603711674841,10.0
+6.0,5.0,24.5,54.39,La Cava,Wine Bar,7.3,0.725928800762093,11.0
+10.0,0.0,24.5,54.39,La Cava,Wine Bar,7.3,0.725928800762093,10.0
+6.0,5.0,24.5,54.39,Eat Greek,Greek Restaurant,7.6,0.8007620929329994,11.0
+10.0,0.0,24.5,54.39,Eat Greek,Greek Restaurant,7.6,0.8007620929329994,10.0
+6.0,5.0,24.5,54.39,Roberto's,Italian Restaurant,7.5,0.6743463994637123,11.0
+10.0,0.0,24.5,54.39,Roberto's,Italian Restaurant,7.5,0.6743463994637123,10.0
+6.0,5.0,24.5,54.39,Caffe Nero (كافيه نيرو),Café,8.5,0.991144197861906,11.0
+10.0,0.0,24.5,54.39,Caffe Nero (كافيه نيرو),Café,8.5,0.991144197861906,10.0
+6.0,5.0,24.5,54.39,Taqado Mexican Kitchen (Galleria Mall),Mexican Restaurant,8.0,0.9181102917828036,11.0
+10.0,0.0,24.5,54.39,Taqado Mexican Kitchen (Galleria Mall),Mexican Restaurant,8.0,0.9181102917828036,10.0
+6.0,5.0,24.5,54.39,Kinokuniya,Bookstore,8.3,0.97932470098437,11.0
+10.0,0.0,24.5,54.39,Kinokuniya,Bookstore,8.3,0.97932470098437,10.0
+6.0,5.0,24.5,54.39,Apple Al Maryah Island (Apple جزيرة الماريه),Electronics Store,8.6,0.98856860600501,11.0
+10.0,0.0,24.5,54.39,Apple Al Maryah Island (Apple جزيرة الماريه),Electronics Store,8.6,0.98856860600501,10.0
+6.0,5.0,24.5,54.39,L'Eto,Café,8.3,0.9888155805666302,11.0
+10.0,0.0,24.5,54.39,L'Eto,Café,8.3,0.9888155805666302,10.0
+6.0,5.0,24.5,54.39,Secret Garden by L’ETO,Dessert Shop,7.5,0.9868750661539004,11.0
+10.0,0.0,24.5,54.39,Secret Garden by L’ETO,Dessert Shop,7.5,0.9868750661539004,10.0
+6.0,5.0,24.5,54.39,Cartier Boutique,Fashion Accessories Store,7.9,0.9889919909677874,11.0
+10.0,0.0,24.5,54.39,Cartier Boutique,Fashion Accessories Store,7.9,0.9889919909677874,10.0
+1.0,4.0,24.5,54.41,La Brioche,Café,7.4,0.9812079282458566,5.0
+1.0,4.0,24.5,54.41,Waitrose & Partners,Grocery Store / Supermarket,7.8,0.994044342025956,5.0
+1.0,4.0,24.5,54.41,ستاربكس,Coffee Shop,7.5,0.9834834758476504,5.0
+1.0,4.0,24.5,54.41,Leopold's of London,Café,7.2,0.9111939578343096,5.0
+1.0,4.0,24.5,54.41,Boudoir Beauty Lounge,Massage Clinic,7.2,0.8274463697378418,5.0
+1.0,4.0,24.5,54.41,Hanoi Naturally,Vietnamese Restaurant,7.2,0.9559665430005444,5.0
+1.0,4.0,24.5,54.41,The Boutik Mall,Retail,6.7,0.9937320274874554,5.0
+1.0,4.0,24.5,54.41,صب واي,Deli,6.8,0.1549067625689929,5.0
+4.0,4.0,24.51,54.37,Heritage Park,Park,7.6,0.9429488762657446,8.0
+4.0,4.0,24.51,54.38,Sushi Central,Japanese Restaurant,8.3,0.8482870550047631,8.0
+4.0,4.0,24.51,54.38,كوستا كوفي,Coffee Shop,6.7,0.9326817909183924,8.0
+4.0,4.0,24.51,54.38,Le Boulanger,Café,7.3,0.8024203507038775,8.0
+1.0,6.0,24.53,54.4,Louvre Abu Dhabi Museum Shop,Souvenir Store,9.4,0.9974778225769,7.0
+1.0,6.0,24.53,54.4,Louvre Abu Dhabi,Art Museum,9.3,0.9981980096708488,7.0
+1.0,6.0,24.53,54.4,Fouquet's Abu Dhabi,French Restaurant,8.4,0.961944217687862,7.0
+1.0,6.0,24.53,54.4,Aptitude Café - Cultural District,Café,7.9,0.9815545316075194,7.0
+10.0,20.0,24.54,54.42,Koi Restaurant & Lounge,Lounge,7.7,0.9051382045123664,30.0
+10.0,20.0,24.54,54.42,"The Collection, Saadiyat",Shopping Mall,7.5,0.9599027232786302,30.0
+10.0,20.0,24.54,54.42,"55&5th, The Grill",Steakhouse,8.0,0.8987585040316317,30.0
+7.0,2.0,24.55,54.43,The Library,Coffee Shop,7.2,0.9853674122008952,9.0
+,,25.66,55.75,Inferno Night Club,Night Club,7.9,0.8982238602765171,
+,,25.66,55.75,Meat Point,South American Restaurant,7.5,0.9570286438657768,
+,,25.66,55.75,Aisha Lobby Lounge,Café,7.5,0.943774886993814,
+,,25.66,55.75,Toast'n Burger,Burger Joint,6.9,0.9389382749110357,
+,,25.66,55.75,Mojito Bar,Cocktail Bar,7.3,0.2040712709328926,
+1.0,8.0,25.67,55.74,SALT (سولت),Burger Joint,8.4,0.9873211442758876,9.0
+1.0,8.0,25.67,55.74,DoubleTree Hilton beach,Beach,6.9,0.1278010215328632,9.0
+1.0,8.0,25.67,55.74,Al Marjan Restaurant,Restaurant,7.2,0.9799812044871828,9.0
+6.0,8.0,25.68,55.78,Caffè Nero (كافيه نيرو),Coffee Shop,8.6,0.9867429847762802,14.0
+6.0,8.0,25.68,55.78,Starbucks (ستاربكس),Coffee Shop,8.1,0.9923954028737262,14.0
+6.0,8.0,25.68,55.78,شكسبير أند كو,Café,8.0,0.9837980133737982,14.0
+6.0,8.0,25.68,55.78,VOX Cinemas (ڤوكس سينما),Movie Theater,8.1,0.989528327394556,14.0
+6.0,8.0,25.68,55.78,Al Hamra Mall (الحمرا مول),Shopping Mall,7.4,0.9978036882044834,14.0
+6.0,8.0,25.68,55.78,Spinney's,Grocery Store / Supermarket,8.5,0.9927473048634796,14.0
+6.0,8.0,25.68,55.78,Nando's,Portuguese Restaurant,7.3,0.9590004339089176,14.0
+6.0,8.0,25.68,55.78,Chili's,Steakhouse,7.1,0.9482487257636868,14.0
+6.0,8.0,25.68,55.78,Johnny Rockets (جوني روكتس),Fast Food Restaurant,6.6,0.612313664531492,14.0
+6.0,8.0,25.68,55.78,Tips and Toes,Health and Beauty Service,6.0,0.9403357728440376,14.0
+6.0,3.0,25.69,55.77,SEAFOOD restaurant,Seafood Restaurant,7.8,0.757105254719517,9.0
+6.0,3.0,25.69,55.78,Al Hamra Golf Club,Golf Course,7.7,0.967999605587178,9.0
+6.0,3.0,25.69,55.78,Belgian Beer Cafe & Restaurant RAK,Belgian Restaurant,7.9,0.9673092004373256,9.0
+6.0,3.0,25.69,55.78,Maison Mathis 'Al Hamra Golf Club',Café,6.0,0.9383422706064788,9.0
+,,25.69,55.8,Al Hamra Cellar,Food and Beverage Retail,9.1,0.9853345546163552,
+6.0,5.0,25.7,55.78,Tucano Coffee (توكانو كافيه),Coffee Shop,8.9,0.9624629351068188,11.0
+5.0,4.0,25.7,55.78,Tucano Coffee (توكانو كافيه),Coffee Shop,8.9,0.9624629351068188,9.0
+6.0,5.0,25.7,55.78,Sea And Sea,Restaurant,7.8,0.9129654658259956,11.0
+5.0,4.0,25.7,55.78,Sea And Sea,Restaurant,7.8,0.9129654658259956,9.0
+6.0,5.0,25.7,55.78,زووم مارت,Convenience Store,7.4,0.92430906727123,11.0
+5.0,4.0,25.7,55.78,زووم مارت,Convenience Store,7.4,0.92430906727123,9.0
+2.0,6.0,25.78,55.94,Tim Hortons,Café,8.2,0.9397446129289704,8.0
+2.0,6.0,25.78,55.94,Al Qawasim Corniche (كورنيش القواسم),Harbor / Marina,8.8,0.9992019154030328,8.0
+2.0,6.0,25.78,55.94,فواكة فرغلي,Juice Bar,6.4,0.9365522745411012,8.0
+2.0,6.0,25.78,55.94,Barbera cafe (كوفي باربيرا),Coffee Shop,7.5,0.0351157222665602,8.0
+2.0,6.0,25.79,55.95,Manhattan Cafe,Café,6.9,0.922585794094174,8.0
